@@ -1,0 +1,30 @@
+﻿  main.cpp
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Matrix.h(95,13): warning C4018: '>=': signed/unsigned mismatch
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Matrix.h(98,18): warning C4018: '>=': signed/unsigned mismatch
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Matrix.h(364,23): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Matrix.h(366,27): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Vector.h(155,23): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Models.h(78,27): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Models.h(81,31): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Models.h(155,23): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Models.h(160,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Models.h(165,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Models.h(273,23): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Models.h(291,23): warning C4018: '<': signed/unsigned mismatch
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Models.h(342,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(70,51): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(71,36): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(72,30): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(78,52): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(79,38): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(80,32): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(88,52): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(89,40): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(90,31): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(96,52): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(97,39): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(98,32): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(105,53): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(106,42): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\main.cpp(107,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  PhysicsBasedMCS.vcxproj -> E:\Project\Homework\ComputerAnimation\3PhysicsBasedMotionControlSystem\PhysicsBasedMCS\Debug\PhysicsBasedMCS.exe

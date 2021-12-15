@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\Matrix.h(343,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\Matrix.h(346,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\Models.h(160,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\Models.h(165,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\Models.h(342,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(70,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(71,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(72,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(78,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(79,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(80,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(88,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(89,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(90,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(96,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(97,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(98,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(105,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(106,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\main.cpp(107,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  PhysicsBasedMCS.vcxproj -> C:\Users\demki\OneDrive\Desktop\转学\达特茅斯学院\PhysicsBasedMotionControlSystem\x64\Debug\PhysicsBasedMCS.exe
